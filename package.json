@@ -1,0 +1,18 @@
+{
+  "name": "valorant-coach-digital",
+  "version": "0.0.1",
+  "description": "Um coach digital que analisa partidas de Valorant para gerar relatórios de desempenho e planos de treino, apenas um projeto de hobby.",
+  "main": "main.py",
+  "scripts": {
+    "start": ""
+  },
+  "keywords": [
+    "valorant",
+    "coach",
+    "stats",
+    "python"
+  ],
+  "author": "Rafael Correia",
+  "license": "MIT",
+  "devDependencies": {}
+}
